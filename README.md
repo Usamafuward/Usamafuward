@@ -18,8 +18,5 @@
 - **LinkedIn:** [https://linkedin.com/in/usama-puward](https://linkedin.com/in/usama-puward)  
 - **Portfolio:** [https://usamapuward.netlify.app](https://usamapuward.netlify.app)  
 
-## 😄 Pronouns  
-He/Him  
-
 ## ⚡ Fun Fact  
 I find joy in turning complex algorithms into practical, impactful solutions!  
