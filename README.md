@@ -1,22 +1,25 @@
-👋 Hi, I’m @Usamafuward
-💻 Computer Science Undergraduate, passionate AI/ML Engineer, and Software Developer.
-🚀 Currently working on innovative AI/ML projects and software solutions to tackle real-world challenges.
+# 👋 Hi, I’m @Usamafuward  
 
-👀 Interests:
-Building intelligent systems
-Full-stack software development
-Research and innovation in AI/ML
+💻 **Computer Science Undergraduate**, passionate **AI/ML Engineer**, and **Software Developer**.  
+🚀 Currently working on innovative AI/ML projects and software solutions to tackle real-world challenges.  
 
-💞️ Open to Collaborate On:
-AI/ML projects
-Developing robust, scalable applications
-Exploring cutting-edge technologies
+## 👀 Interests  
+- Building intelligent systems  
+- Full-stack software development  
+- Research and innovation in AI/ML  
 
-📫 How to Reach Me:
-Email: [usamafuward2001@gmail.com]
-LinkedIn: [https://linkedin.com/in/usama-puward]
-Portfolio: [https://usamapuward.netlify.app]
+## 💞️ Open to Collaborate On  
+- AI/ML projects  
+- Developing robust, scalable applications  
+- Exploring cutting-edge technologies  
 
-😄 Pronouns: He/Him
+## 📫 How to Reach Me  
+- **Email:** usamafuward2001@gmail.com  
+- **LinkedIn:** [https://linkedin.com/in/usama-puward](https://linkedin.com/in/usama-puward)  
+- **Portfolio:** [https://usamapuward.netlify.app](https://usamapuward.netlify.app)  
 
-⚡ Fun Fact: I find joy in turning complex algorithms into practical, impactful solutions!
+## 😄 Pronouns  
+He/Him  
+
+## ⚡ Fun Fact  
+I find joy in turning complex algorithms into practical, impactful solutions!  
