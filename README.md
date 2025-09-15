@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Usamafuward  
 
-💻 **Computer Science Undergraduate**, passionate **AI/ML Engineer**, and **Software Developer**.  
+💻 **Computer Science Graduate**, passionate **AI/ML Engineer**, and **Software Developer**.  
 🚀 Currently working on innovative AI/ML projects and software solutions to tackle real-world challenges.  
 
 ## 👀 Interests  
